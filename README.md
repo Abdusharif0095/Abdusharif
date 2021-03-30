@@ -1,4 +1,4 @@
-👋 Hi, I’m @Abdusharif and I'm:
+👋 Hi, I’m Abdusharif and I'm:
 <hr color = "#ffffff" size  = "1px" width="500px">
 <ul>
   <li> 🎓 studying at <a href="https://stankin.ru/"> MSTU "Stankin" </a> </li>
