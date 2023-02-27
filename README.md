@@ -3,8 +3,7 @@
 <ul>
   <li> 🎓 studying at <a href="https://stankin.ru/"> MSTU "Stankin" </a> </li>
   <li> 👀 interested in computer programming </li>
-  <li> 💻 currently learning Python(android-developer) </li>
-  <li> 🎧 I love listening to music </li>
+  <li> 💻 currently learning Python(backend-developer) </li>
 </ul>
 <!---
 Abdusharif0095/Abdusharif0095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
